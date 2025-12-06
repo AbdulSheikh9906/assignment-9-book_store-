@@ -9,3 +9,4 @@ npm run dev
 cd frontend
 activate virtual environment
 npm start
+it give local host link
